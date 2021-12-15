@@ -14,7 +14,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Game engine explorer</title>
+        <title>What game engine does x use? - Game engine explorer</title>
+        <meta name="description" content="what game engine does x use? Find out here. This is a Google SEO Test."></meta>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
