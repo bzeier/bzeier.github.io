@@ -17,6 +17,9 @@ function MyApp({ Component, pageProps }) {
       </Head>
       <meta name="description" content="What game engine does x use?"></meta>
       <Component {...pageProps} />
+      <meta name="description" content="fallout"></meta>
+      <meta name="description" content="stalker 2"></meta>
+      <meta name="description" content="halo infinite"></meta>
     </>
   )
 }
