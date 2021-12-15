@@ -11,10 +11,12 @@ function ToolTag({ name }) {
                 return 'orange'
             case 'lua':
                 return 'red';
+            case 'game maker':
+                return 'green';
             case 'unreal engine':
                 return 'blue';
             case 'unity':
-                return 'green';
+                return 'brown';
         }
 
 
