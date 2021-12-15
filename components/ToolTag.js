@@ -4,16 +4,16 @@ function ToolTag({ name }) {
 
     const getColor = function () {
 
-        switch (name) {
+        switch (name.toLowerCase()) {
             case 'C#':
                 return 'teal';
-            case 'Java':
+            case 'java':
                 return 'orange'
-            case 'Lua':
+            case 'lua':
                 return 'red';
-            case 'Unreal Engine':
+            case 'unreal engine':
                 return 'blue';
-            case 'Unity':
+            case 'unity':
                 return 'green';
         }
 
