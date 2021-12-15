@@ -15,7 +15,7 @@ export default function Home() {
     <div>
       <Head>
         <title>What game engine does x use? - Game engine explorer</title>
-        <meta name="description" content="what game engine does x use? Find out here. This is a Google SEO Test."></meta>
+        <meta name="description" content="what game engine does x use? What engine should I use?"></meta>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
