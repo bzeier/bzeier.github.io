@@ -1,7 +1,7 @@
 export default [
     {
         title: "fallout 4",
-        tools: ["Creation Engine, Papyrus"],
+        tools: ["Creation Engine","Papyrus"],
         image: "https://images-na.ssl-images-amazon.com/images/I/913m4BOW-NL.jpg"
     },
     {
@@ -78,6 +78,41 @@ export default [
         title: "Little Devil Inside",
         tools: ["Unreal Engine"],
         image: "https://upload.wikimedia.org/wikipedia/en/b/b8/Little_Devil_Inside_cover.jpg"
+    },
+    {
+        title: "Valheim",
+        tools: ["Unity", "C#"],
+        image: "https://upload.wikimedia.org/wikipedia/en/7/77/Valheim_2021_logo.jpg"
+    },
+    {
+        title: "Horizon Forbidden West",
+        tools: ["Decima", "C++"],
+        image: "https://upload.wikimedia.org/wikipedia/en/6/69/Horizon_Forbidden_West_cover_art.jpg"
+    },
+    {
+        title: "Kerbal Space Program 2",
+        tools: ["Unity", "C#"],
+        image: "https://s2.gaming-cdn.com/images/products/5380/orig/kerbal-space-program-2-pc-game-steam-cover.jpg"
+    },
+    {
+        title: "Battlefield 2042",
+        tools: ["Frostbite", "C++", "C#"],
+        image: "https://image.api.playstation.com/vulcan/img/rnd/202111/0818/6OFhqtXvBpBavqM50dciqeRH.png"
+    },
+    {
+        title: "Halo Infinite",
+        tools: ["Slipspace Engine", "C++", "C#", "C"],
+        image: "https://store-images.s-microsoft.com/image/apps.21536.13727851868390641.c9cc5f66-aff8-406c-af6b-440838730be0.68796bde-cbf5-4eaa-a299-011417041da6?w=400&h=600"
+    },
+    {
+        title: "Stalker 2",
+        tools: ["Unreal Engine 5", "C++"],
+        image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/STALKER_2_cover_art.jpg"
+    },
+    {
+        title: "Gotham Knights",
+        tools: ["Unreal Engine 5", "C++"],
+        image: "https://image.jeuxvideo.com/medias/163395/1633953563-6406-jaquette-avant.jpg"
     }
 
 
