@@ -128,6 +128,26 @@ export default [
         title: "Elden Ring",
         tools: ["Unreal Engine", "C++"],
         image: "https://compass-ssl.xbox.com/assets/7c/d5/7cd5fbec-e0a2-4978-b3c2-0d33552f6d8b.jpg?n=Elden-Ring_GLP-Page-Hero-1084_1920x1080_02.jpg"
+    },
+    {
+        title: "Cuphead",
+        tools: ["Unity", "C#"],
+        image: "https://image.api.playstation.com/vulcan/img/cfn/11307fd0s0uyV-ba4dy5E9qskf6CIntl28sAerYTFbYC7vPUBrfgp7zokliHVbVoJ5ghylOBamo2Q2i5pbEYxQKFnSsiLHaY.png"
+    },
+    {
+        title: "Escape from Tarkov",
+        tools: ["Unity", "C#"],
+        image: "https://upload.wikimedia.org/wikipedia/en/2/20/Escape_from_Tarkov.jpg"
+    },
+    {
+        title: "Kingdoms of the Dump",
+        tools: ["Godot", "GDScript"],
+        image: "https://ksr-ugc.imgix.net/assets/024/179/251/ffb94fa6063941541369b1fdef45cf21_original.png?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1550858997&auto=format&frame=1&q=92&s=6582ee13119efca02ffdcd488bd417e0"
+    },
+    {
+        title: "payday 3",
+        tools: ["Diesel 2.0", "LUA"],
+        image: "https://s2.gaming-cdn.com/images/products/6442/271x377/game-steam-payday-3-cover.jpg"
     }
 
 
