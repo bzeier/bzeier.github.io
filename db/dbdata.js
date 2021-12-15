@@ -113,6 +113,21 @@ export default [
         title: "Gotham Knights",
         tools: ["Unreal Engine 5", "C++"],
         image: "https://image.jeuxvideo.com/medias/163395/1633953563-6406-jaquette-avant.jpg"
+    },
+    {
+        title: "Redfall",
+        tools: ["Unreal Engine", "C++"],
+        image: "https://upload.wikimedia.org/wikipedia/en/a/ad/Redfall_cover.jpg"
+    },
+    {
+        title: "Graven",
+        tools: ["Unreal Engine", "C++"],
+        image: "https://cdn.akamai.steamstatic.com/steam/apps/1371690/header.jpg?t=1638441792"
+    },
+    {
+        title: "Elden Ring",
+        tools: ["Unreal Engine", "C++"],
+        image: "https://compass-ssl.xbox.com/assets/7c/d5/7cd5fbec-e0a2-4978-b3c2-0d33552f6d8b.jpg?n=Elden-Ring_GLP-Page-Hero-1084_1920x1080_02.jpg"
     }
 
 
