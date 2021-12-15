@@ -1,4 +1,5 @@
 import Button from "@material-tailwind/react/Button"
+import { Chip } from "@material-ui/core";
 
 function ToolTag({ name }) {
 
@@ -30,6 +31,7 @@ function ToolTag({ name }) {
                 <text className="font-semibold">{name}</text>
             </Button>
         </div>
+
     )
 }
 
