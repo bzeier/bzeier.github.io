@@ -19,8 +19,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Header searchvalue={searchvalue} onChangeMethod={setSearchvalue} />
-      
+      <Header searchvalue={searchvalue} onChangeMethod={setSearchvalue}/>
 
       <section className="bg-[#f0f0f0] pb-10 px-10">
         <div className="max-w-6xl mx-auto">
